@@ -2,7 +2,7 @@
 
 Welcome! This is a work in progress and a mess
 
-My table of contents can be found here: [Table of Contents](https://github.com/jakeat555/jakeat555.github.io/edit/master/ToC.md)
+My table of contents can be found here: [Table of Contents](https://jakeat555.github.io/edit/master/ToC.md)
 
 You can use the [editor on GitHub](https://github.com/jakeat555/jakeat555.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
