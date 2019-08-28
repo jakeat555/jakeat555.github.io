@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+Welcome! This is a work in progress and a mess
+
+My table of contents can be found here: [Table of Contents](https://github.com/jakeat555/jakeat555.github.io/edit/master/ToC.md)
+
 You can use the [editor on GitHub](https://github.com/jakeat555/jakeat555.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
